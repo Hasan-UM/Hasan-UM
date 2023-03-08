@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://scholar.google.com/citations?user=L-svBiwAAAAJ&hl=en](https://scholar.google.com/citations?user=L-svBiwAAAAJ&hl=en)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
