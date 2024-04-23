@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-um&label=Profile%20views&color=0e75b6&style=flat" alt="hasan-um" /> </p>
 
-- 💬 Ask me about **Journal Writing, Research Collaboration**
+- 💬 PhD Student **Griffith University**
 
-- 📫 How to reach me **asif.h@eastdelta.edu.bd**
+- 📫 How to reach me **muhammadasif.hasan@griffithuni.edu.au**
 
 - 📄 Know about my experiences [https://scholar.google.com/citations?user=L-svBiwAAAAJ&hl=en](https://scholar.google.com/citations?user=L-svBiwAAAAJ&hl=en)
 
